@@ -1,7 +1,12 @@
 # ¡Hola! 👋😄
 
-Soy **Samuel Andrés Pacheco Arias**, estudiante de Ingeniería de Sistemas en la **Universidad Cooperativa de Colombia**.  
-💻 Apasionado por el desarrollo de software, disfruto creando soluciones que faciliten la vida de las personas, combinando creatividad, lógica y tecnología.
+🙋‍♂️ Soy **Samuel Andrés Pacheco Arias**, estudiante de Ingeniería de Sistemas en la **Universidad Cooperativa de Colombia**, comprometido con el crecimiento constante y la excelencia en cada proyecto que emprendo.
+
+🚀 Me considero una persona dedicada, trabajadora y con una fuerte pasión por aprender. Ante cada reto, busco siempre ir más allá del problema, investigando, experimentando y encontrando soluciones efectivas e innovadoras.
+
+💡 Disfruto aplicar mis conocimientos en el desarrollo de software con propósito, creando herramientas útiles que aporten valor a las personas y a las organizaciones. Me impulsa la curiosidad, el deseo de mejorar cada día y el trabajo en equipo.
+
+📚 Actualmente, estoy enfocado en fortalecer mis habilidades tanto en el desarrollo backend como frontend, explorando tecnologías modernas para construir aplicaciones completas y funcionales. He participado en proyectos utilizando herramientas como **Django, MySQL, Java, Python y JavaScript**, y continúo expandiendo mi conocimiento con cada línea de código.
 
 ---
 
